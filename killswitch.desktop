@@ -2,9 +2,9 @@
 Version=1.0
 Name=killswitch
 Comment=This is my comment
-Exec=/home/turtle/github/kill-switch/killswitch.sh
+Exec=/home/turtle/git/kill-switch/killswitch.sh
 Icon=/usr/share/pixmaps/nobody.png
-Path=/home/turtle/github/kill-switch/
+Path=/home/turtle/git/kill-switch/
 Terminal=false
 Type=Application
 Categories=Utility;Application;
